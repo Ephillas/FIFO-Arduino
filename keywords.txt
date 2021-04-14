@@ -1,0 +1,6 @@
+# Datatypes (KEYWORD1)
+FIFO KEYWORD1
+inserir KEYWORD2
+retirar KEYWORD2
+cheia   KEYWORD2
+tamanho KEYWORD2
