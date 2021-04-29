@@ -2,7 +2,7 @@
 #ifndef _FIFO_h_
 #include <Arduino.h>
 #define _FIFO_h_
-#define buffer_size 300
+#define buffer_size 64
 class FIFO{
   private:
     struct fila{
